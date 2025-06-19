@@ -121,6 +121,38 @@ To build a full-stack real-time messaging platform with rich features like:
 | **DaisyUI**    | UI component library with 32 built-in themes     |
 
 ---
+## 📸 Screenshots
+
+### 🔐 Signup Page  
+Clean and modern registration form with input validation and error handling.  
+![Signup Page](./screenshots/Signup.png)
+
+---
+
+### 📱 Responsive Layout  
+Fully optimized for mobile, tablet, and desktop for a seamless user experience.  
+![Responsive Layout](./screenshots/Responsive.png)
+
+---
+
+### 💬 Real-Time Messaging UI  
+Instant one-on-one messaging with media sharing and smooth auto-scrolling.  
+![Message UI](./screenshots/messageui.png)
+
+---
+
+### 🎨 Theme Customization (32 DaisyUI Themes)  
+Switch between 32 built-in themes to personalize the chat interface.  
+![Theme Showcase](./screenshots/32themes.png)
+
+---
+
+### 👤 Profile Page  
+Users can view and update their profile pictures and account details.  
+![Profile Page](./screenshots/profile.png)
+
+
+
 
 ## 🌱 Future Enhancements
 
@@ -135,6 +167,7 @@ To build a full-stack real-time messaging platform with rich features like:
 
 Have questions or want to contribute?
 Feel free to reach out or open an issue in the repository.
+
 
 ---
 
