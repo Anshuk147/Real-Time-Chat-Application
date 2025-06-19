@@ -141,5 +141,3 @@ Feel free to reach out or open an issue in the repository.
 **Quantam Talk** – *The future of seamless communication!* 🚀
 
 ---
-
-Let me know if you want me to add GitHub badges, a preview image, or contribution guidelines as well.
